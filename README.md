@@ -24,6 +24,7 @@ Currently a lot of my life involves Google. While deciding to start this project
 - Android OS (Phone Operating System - Reliant on Google Play Services)
 - Photos (Auto-upload from Phone, and long term storage)
 - Travel Computer (Chromebook)
+- Maps (Navigation)
 
 ## Products I already do not use
 Due to some previous drama surrounding google search, ads and browsing I have already given up the following.
