@@ -31,3 +31,6 @@ Due to some previous drama surrounding google search, ads and browsing I have al
 - Search (DuckDuckGo)
 - Browser (Vivaldi - Chromium Based)
 
+## Resources to help switch
+- Gmail (https://blog.dipasquale.fr/en/2018/12/02/leave-gmail-in-10-steps/)
+
