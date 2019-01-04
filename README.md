@@ -29,7 +29,11 @@ Currently a lot of my life involves Google. While deciding to start this project
 ## Products I already do not use
 Due to some previous drama surrounding google search, ads and browsing I have already given up the following.
 - Search (DuckDuckGo)
-- Browser (Vivaldi - Chromium Based)
+- Browser (Brave - Chromium Based)
+
+## Migration Status
+- Email (Fastmail): Synced all email from Gmail and went through and migrated/deleted emails since 2008! Now using fastmail as my main email account and going through the process of switching all references until the gmail account is not receiving any email.
+- Maps (MapQuest): Switched to MapQuest for GPS usages and online directions
 
 ## Resources to help switch
 - Gmail (https://blog.dipasquale.fr/en/2018/12/02/leave-gmail-in-10-steps/)
