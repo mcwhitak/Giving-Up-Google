@@ -9,6 +9,7 @@ Recently this can be seen in the following actions:
 - Increased Presence of Google Curated "cards" over search results (todo)
 - Increased necessity of Google Play Services on Android (todo)
 - URL Obfuscation and push towards AMP/google run caching/publishing technology
+- AMP For Email (https://techcrunch.com/2019/03/26/google-makes-emails-more-dynamic-with-amp-for-email/)
 
 These are some of my main reasons, I know there are others out there who feel strongly about other issues not mentioned here.
 After all of these moves I have come to the conclusion that Google is not looking out for the web, but rather the web it envisions.
